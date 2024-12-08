@@ -21,18 +21,20 @@ My previous work includes machine learning research, embedded systems engineerin
 
 ⚡ Repositories:
 
-[Machine Learning Foundations (BTT)]()
+[Machine Learning Foundations (BTT)](https://github.com/thatikos/btt)
 
-[AI Studio Mathworks Project (BTT)]()
+[AI Studio Mathworks Project (BTT)](https://github.com/bits-and-bytes85/landslide-prediction)
 
-[Early Research Scholars Program (ERSP) Project]()
+[Early Research Scholars Program (ERSP) Question Answering Model Project](https://github.com/thatikos/ersp-unified-qa)
+
+[Early Research Scholars Program (ERSP) Reranker Model Research](https://github.com/thatikos/ersp-reranker)
 
 
-[Target Shooting Game (CS 335)]()
+[Target Shooting Game (CS 335)](https://github.com/jvelazquez4/335project)
 
-[Website Development Project (CS 326)]()
+[Website Development Project (CS 326)](https://github.com/ankitgoyal0106/Swap-Shop)
 
-[Fetching APIs Project (CS 220)]
+[Fetching APIs Project (CS 220)](https://github.com/umass-compsci-220-spring-24-hw7/39)
 
 
 <!--
