@@ -1,14 +1,10 @@
 ## Hello! 👋
 
-🔭 About Me: 
-
-My name is Snigdha Thatikonda, I'm a computer science student at the University of Massachusetts, Amherst and part-time software engineer at Liberty Mutual Insurance. 
+🔭 About Me: My name is Snigdha Thatikonda, I'm a computer science student at the University of Massachusetts, Amherst and part-time software engineer at Liberty Mutual Insurance. 
 
 😄 Pronouns: She/Her/Hers
 
-🌱 Experiences:
-
-My previous work includes machine learning research, embedded systems engineering, app development, etc. I'm currently in the Break Through Tech AI/ML program hosted by MIT, through which I worked on an AI Studio project with Mathworks!
+🌱 Experiences: My previous work includes machine learning research, embedded systems engineering, app development, etc. I'm currently in the Break Through Tech AI/ML program hosted by MIT, through which I worked on an AI Studio project with Mathworks!
 
 📫 How to reach me:
 
