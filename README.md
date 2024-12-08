@@ -1,8 +1,11 @@
 ## Hello! 👋
 
 My name is Snigdha Thatikonda, I'm a computer science student at the University of Massachusetts, Amherst. 
+
 [headshot](https://github.com/user-attachments/assets/e5b19ff2-3194-402a-970a-36b03fd2c45b)
+
 [linkedin](https://www.linkedin.com/in/snigdha-thatikonda/)
+
 [email](sthatikonda@umass.edu)
 
 
